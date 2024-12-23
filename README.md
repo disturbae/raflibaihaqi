@@ -1,3 +1,1 @@
-nama : raflibaihaqi
-jurusan : information system
-minat : menjadi progammer
+nama : raflibaihaqi jurusan : information system minat : menjadi progammer
